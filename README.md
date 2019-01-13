@@ -8,11 +8,11 @@ Examples of [Molecular Phylogenomics](https://en.wikipedia.org/wiki/Phylogenomic
 
 `Homo Sapien Histone Methyltransferases.pdf`
 
-Visualizes divergence and distance of all different [histone methyltransferases](https://en.wikipedia.org/wiki/Histone_methyltransferase) found in the *Homo Sapien*, human, genome. 
+Visualizes divergence and distance of all different [histone methyltransferases](https://en.wikipedia.org/wiki/Histone_methyltransferase) found in the *Homo Sapien*, human, genome. Input for analysis was 📜 `KMT_protein_sequences.fasta`. 
 
 `Isolated Influenza A Strains.pdf`
 
-Visualizing divergence of all known isolated strands of [Influenza A](https://www.healthline.com/health/influenza-a-symptoms) with branch lengths and detailed information about each strand provided after each leaf node in the tree. 
+Visualizing divergence of all known isolated strands of [Influenza A](https://www.healthline.com/health/influenza-a-symptoms) with branch lengths and detailed information about each strand provided after each leaf node in the tree. Input for analysis was 📜 `HA_40.fasta`
 
 
 **Contact Information** 
